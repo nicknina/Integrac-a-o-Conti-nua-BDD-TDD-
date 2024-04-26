@@ -1,0 +1,4 @@
+Para MediaDe2.py
+
+Calcular a média de dois números.
+Lidar com tipos de dados inválidos.
