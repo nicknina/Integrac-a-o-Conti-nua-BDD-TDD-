@@ -1,5 +1,5 @@
 import pytest
-from media2TDD import calcular_media
+from media2TDD import media2TDD 
 
 def test_calcular_media():
     # Teste para verificar se a função retorna a média correta de dois números inteiros
