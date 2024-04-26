@@ -1,4 +1,4 @@
-def calcular_media(num1, num2):
+def media2TDD(num1, num2):
     if not (isinstance(num1, (int, float)) and isinstance(num2, (int, float))):
         raise TypeError("Os números devem ser inteiros ou floats")
     
