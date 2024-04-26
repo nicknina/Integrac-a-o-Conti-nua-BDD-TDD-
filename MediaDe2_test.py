@@ -1,5 +1,5 @@
 import pytest
-from MediaDe2 import calcular_media
+from MediaDe2 import MediaDe2
 
 def test_calcular_media(): 
     numero1 = 4
